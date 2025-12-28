@@ -1,0 +1,11 @@
+# Sample YAML file
+name: example
+version: 1
+items:
+  - id: 1
+    label: first
+  - id: 2
+    label: second
+settings:
+  enabled: true
+  retries: 3
