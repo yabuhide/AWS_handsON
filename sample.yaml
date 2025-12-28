@@ -1,11 +1,14 @@
 # Sample YAML file
 name: example
-version: 1
+description: "sample data for testing"
+version: 2
 items:
   - id: 1
     label: first
   - id: 2
     label: second
+  - id: 3
+    label: third
 settings:
   enabled: true
   retries: 3
